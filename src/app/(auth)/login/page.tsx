@@ -89,7 +89,7 @@ const LoginPage = () => {
           </div>
 
           <Button variant="outline" type="button" className="h-12 flex gap-2">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google" className="h-5 w-5" />
+             <img src=":/https/upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google" className="h-5 w-5" />
              Google
           </Button>
         </form>
