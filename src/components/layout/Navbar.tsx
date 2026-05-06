@@ -22,10 +22,13 @@ const Navbar = () => {
               UdemyClone
             </Link>
 
-            {/* Desktop Navigation */}
-            <div className="hidden lg:flex items-center gap-6">
+            {/* Desktop N
+           avigation */} <div className="hidden lg:flex items-center gap-6">
               <Link href="/courses" className="text-sm font-medium text-gray-700 hover:text-indigo-600 transition-colors">
                 Categories
+              </Link>
+              <Link href="/dashboard" className="text-sm font-medium text-gray-700 hover:text-indigo-600 transition-colors">
+                Dashboard
               </Link>
               <div className="relative w-96">
                 <input
